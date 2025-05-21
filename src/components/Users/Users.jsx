@@ -18,7 +18,7 @@ const Users = () => {
        .finally()
     }, [])
   return (
-   <div className='grid grid-cols-4 gap-3 container '>
+   <div className='container grid md:grid-cols-2 lg:grid-cols-4 gap-3 cards '>
      {
       data?.users?.map((item) =>(
         <div key={item.id}>
