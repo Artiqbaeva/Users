@@ -16,7 +16,7 @@ const images = [
   },
   {
     src: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0',
-    caption: 'Modern Interface, Built for Productivity',
+    caption: 'Modern Interface for Productivity',
   },
 ]
 

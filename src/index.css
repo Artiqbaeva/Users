@@ -7,8 +7,12 @@
   font-family: sans-serif;
 }
 .users{
-  margin-top: 90px;
+  margin-top: 50px;
 }
 .cards {
   padding: 10px;
+}
+.user-text{
+  margin-top: 40px;
+  text-align: center;
 }
